@@ -44,7 +44,7 @@ Start a conversation with @BotFather on Telegram and create a new bot with a uni
 
 **4. Scroll down to 'Public Git repository' and paste the following URL**
 ```
-https://github.com/ogunjobiFX/MT4-MT5-Forex-Signal-Copier-Telegram-Bot
+https://github.com/Morning-Star213/Forex-copier-tgbot
 ```
 
 **5. Set up Render Application**
